@@ -1,0 +1,65 @@
+.home-page {
+    background-image: url('backimages.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  .imgworld1{
+    width: 30px;
+    height: 30px;
+  }
+  .form-control{
+    width: 120px;
+    height: 50px;
+  }
+  .input-group{
+    width: 58%;
+    height: 50px;
+    left: 14%;
+  }
+  .input-group-text{
+    width: 52px;
+    margin-top: 16px;
+    height: 51px;
+  }
+
+.custom-select{
+    width: 137px;
+    height: 50px;
+    margin-left: 777px;
+    margin-top: -50px;
+    font-size: 18px;
+    color: #000080;
+    font-style: bold;
+    border-color: #e1d7d7;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+      
+}
+.card{
+    height: 600px;
+
+}
+.imgsize{
+    height: 200px;
+}
+.textcode {
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-style: italic;
+    color: #000080;
+    margin-right: 15px;
+    width: 213px;
+    padding-right: 15px;
+}
+.textcode h2 {
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-style: italic;
+    color: #000080;
+}
+.textnews{
+    margin-left: 53px;
+}
