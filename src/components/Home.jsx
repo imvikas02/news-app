@@ -8,7 +8,7 @@ function Home() {
   const [category, setcategory] = useState('');
 
 
-  useEffect(() => {npm 
+  useEffect(() => { 
     async function getdata() {
       if (searchdata) {
         let result = await fetch(`https://newsapi.org/v2/top-headlines?country=in&category=${category}&apiKey=e2dc6436499a46d09130b7e8f4378890`);
